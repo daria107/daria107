@@ -1,4 +1,5 @@
-## Hi there 👋
+## Приветик!
+Меня зовут Даша, я будущий веб-разработчик
 
 <!--
 **daria107/daria107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><picture>
+-->
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.mds.yandex.net/i?id=d5c80dc722eb07a7b026e2587fc2f8dbdaff1c5a-10385608-images-thumbs&n=13">
  <source media="(prefers-color-scheme: light)" srcset="https://avatars.mds.yandex.net/i?id=d5c80dc722eb07a7b026e2587fc2f8dbdaff1c5a-10385608-images-thumbs&n=13">
  <img alt="YOUR-ALT-TEXT" src="https://avatars.mds.yandex.net/i?id=d5c80dc722eb07a7b026e2587fc2f8dbdaff1c5a-10385608-images-thumbs&n=13">
 </picture>
+## About me
+Моё хобби: читать и фотографировать 
