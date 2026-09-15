@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  <source media="(prefers-color-scheme: light)" srcset="https://avatars.mds.yandex.net/i?id=d5c80dc722eb07a7b026e2587fc2f8dbdaff1c5a-10385608-images-thumbs&n=13">
  <img alt="YOUR-ALT-TEXT" src="https://avatars.mds.yandex.net/i?id=d5c80dc722eb07a7b026e2587fc2f8dbdaff1c5a-10385608-images-thumbs&n=13">
 </picture>
+
 ## About me
 
 Моё хобби: читать и фотографировать 
